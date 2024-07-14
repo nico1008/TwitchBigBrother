@@ -1,0 +1,2 @@
+# TwitchSentiment
+Twitch sentiment anylizer
