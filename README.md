@@ -1,6 +1,6 @@
-# TwitchSentiment
+# TwitchBigBrother
 
-TwitchSentiment is a Python application that analyzes the sentiment of messages in Twitch chat in real-time using machine learning models and stores the sentiment analysis results in a PostgreSQL database. It also provides functionality to manage a banlist of users.
+TwitchBigBrother is a Python application that analyzes the sentiment of messages in Twitch chat in real-time using machine learning models and stores the sentiment analysis results in a PostgreSQL database. It also provides functionality to manage a banlist of users.
 
 ## Features
 
@@ -19,5 +19,5 @@ TwitchSentiment is a Python application that analyzes the sentiment of messages 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TwitchSentiment.git
-   cd TwitchSentiment
+   git clone https://github.com/your-username/TwitchBigBrother.git
+   cd TwitchBigBrother
