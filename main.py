@@ -3,7 +3,7 @@ from twitchio.ext import commands
 from dotenv import load_dotenv
 from transformers import pipeline
 import psycopg2
-from psycopg2 import sql, Error
+from psycopg2 import Error
 
 load_dotenv()
 
